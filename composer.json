@@ -1,0 +1,12 @@
+{
+    "name": "dms/exception-crawler",
+    "authors": [
+        {
+            "name": "Federico Frigeri",
+            "email": "federicofrigeri@gmail.com"
+        }
+    ],
+    "require": {
+      "symfony/finder": "2.4.*"
+    }
+}
